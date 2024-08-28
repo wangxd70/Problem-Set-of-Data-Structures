@@ -1,6 +1,6 @@
 # 数据结构
 
-![封面](https://github.com/wangxd70/Data-Structures/blob/main/image/%E5%B0%81%E9%9D%A2.jpg?raw=true)
+![封面](https://github.com/wangxd70/Problem-Set-of-Data-Structures/blob/main/image/%E5%B0%81%E9%9D%A2.jpg?raw=true)
 
 
 
