@@ -4,7 +4,7 @@
 
 
 
-This is the code repository for  [The Solution Manual for Data Structures in C (https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=56188), published by Publishing House of Electronics Industry.
+This is the code repository for  [The Solution Manual for Data Structures in C ](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=56188), published by Publishing House of Electronics Industry.
 
 ## What is this book about?
 This book covers the following exciting features:
